@@ -1,0 +1,5 @@
+1 . Download Google Antigravity IDE 
+https://antigravity.google/download?_gl=1*1k29w1v*_up*MQ..*_gs*MQ..&gclid=Cj0KCQiAiJXYBhD_ARIsAAx2AHk9Le2EaI0jX0-ONY3VMfxeDRt7fYygNljo8Txl7zFob90WkqNXyC4aAp0REALw_wcB&gclsrc=aw.ds&gbraid=0AAAABE0JD34SxzAQ4AnArTxNzAkGImraC#antigravity-ide
+
+2. Open IDE, run in powershell prompt on IDE. Install UV packaga
+powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
